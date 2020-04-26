@@ -21,4 +21,4 @@ steps:
     npm test
    displayName: 'npm install, build, and test'
    #displayName: 'npm install and build'
-  #testi sil ve display name deki diezi kaldir amk
+  #testi sil ve display name deki diezi kaldir 
